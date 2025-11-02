@@ -6,7 +6,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, Di
 import { Github, Linkedin, Mail, ExternalLink, MapPin, Calendar, Award, Code2, Database, Palette, Server, Smartphone, ArrowRight } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { useState } from "react";
-const profileImage = "https://drive.google.com/uc?export=view&id=1WC9XZFKnGp0JvPkXHUdbe8FCEvDgGk2o";
+const profileImage = "https://drive.google.com/thumbnail?id=1WC9XZFKnGp0JvPkXHUdbe8FCEvDgGk2o&sz=w1024";
 const classForgeImage = "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbGFzc3Jvb20lMjBzdHVkZW50cyUyMGxlYXJuaW5nfGVufDF8fHx8MTc2MTk3ODc4MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral";
 import gaFlowchartImage from "figma:asset/b42b1eb95b7be63ba5f9e741f9d5f754962e18f7.png";
 
